@@ -1,1 +1,1 @@
-# Statisticam_methods
+# Statistical_methods
